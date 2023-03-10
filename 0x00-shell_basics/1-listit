@@ -1,2 +1,2 @@
 #!/bin/bash
-Applications Documents Dropbox Movies Pictures sqlfi
+echo "Applications Documents Dropbox Movies Pictures sql"
