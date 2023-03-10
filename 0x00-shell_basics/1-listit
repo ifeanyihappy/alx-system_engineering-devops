@@ -1,2 +1,3 @@
 #!/bin/bash
-love
+echo "Applications    Documents   Dropbox Movies Pictures"
+echo "Desktop Downloads   Library Music Public"
