@@ -1,3 +1,2 @@
 #!/bin/bash
-export latestModifiedFolderName=$(ls -td /apps/test/*/ | head -n1)
-echo Latest modified folder within /apps/test directory is $latestModifiedFolderName
+export latestModifiedFolderName=$(ls -td /apps/test/*/ | head -n1) || echo Latest modified folder within /apps/test directory is $latestModifiedFolderName
