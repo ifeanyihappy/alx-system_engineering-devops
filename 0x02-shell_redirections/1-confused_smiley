@@ -1,2 +1,2 @@
 #!/bin/bash
-echp "i" ||  echo "love"
+echo "(Ô" ||  echo "o)"
